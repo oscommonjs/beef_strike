@@ -5,13 +5,9 @@
 # Version : v0.2                                                        #
 # License : Distributed under the terms of GNU GPL version 3 or later   #
 #                                                                       #
-# Github  : https://github.com/IOA31000/beef_msf_armitage               #
+# Github  : https://github.com/IOA31000/beef_strike                     #
 #                                                                       #
 #=======================================================================#
-
-
-# beef_msf_armitage
-Integration du plugin beef_strike dans armitage
 
 
 # Caractéristiques
