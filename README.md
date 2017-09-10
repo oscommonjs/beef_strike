@@ -1,11 +1,14 @@
 #=======================================================================#
-#                            beef_strike                                #
-# Date    : 04/08/2017                                                  #
+#                             IOA31000                                  #
+# Script  : beef_strike                                                 #
+# Date    : 08/09/2017                                                  #
 # Author  : Tito                                                        #
 # Version : v0.2                                                        #
-# License : Distributed under the terms of GNU GPL version 3 or later   #
-#                                                                       #
-# Github  : https://github.com/IOA31000/beef_strike                     #
+# License : GNU General Public License v3.0                             #
+# Distrib : Kali-Linux amd64                                            #
+# Session : root                                                        #
+# YouTube : https://www.youtube.com/user/IOA32000/playlists             #
+# Github  : https://github.com/IOA31000?tab=repositories                #
 #                                                                       #
 #=======================================================================#
 
